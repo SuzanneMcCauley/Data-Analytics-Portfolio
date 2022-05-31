@@ -1,5 +1,3 @@
-# Portfolio_Data-Analytics-Portfolio
-Project work for Data Science and Analytics Bootcamp courses
 # Data Science & Analytics Portfolio
 This repository contains projects and visualizations from
 the Data Science & Analytics program with
